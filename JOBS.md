@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-09-08
+# Medical Sales & Client Roles (IC) - 2026-09-09
 
-**48 matching roles** across 23 live boards
+**47 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -75,7 +75,6 @@
 - [Account Manager, Health Plans](https://jobs.ashbyhq.com/sondermind/faa86497-be8a-4006-aa6c-533a8bf9d35d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
 
 ## Tebra
-- [Account Executive, Customer Growth](https://job-boards.greenhouse.io/tebra/jobs/4631714005) — United States - Remote
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
 - [Account Executive, Patient Experience](https://job-boards.greenhouse.io/tebra/jobs/4681866005) — United States - Remote
 
