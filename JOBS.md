@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-09-09
+# Medical Sales & Client Roles (IC) - 2026-09-10
 
-**47 matching roles** across 23 live boards
+**45 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -18,7 +18,6 @@
 
 ## Carrot Fertility
 - [Customer Success Executive](https://job-boards.greenhouse.io/carrotfertility/jobs/6138104004) — Remote
-- [Customer Success Executive, Taft-Hartley Labor](https://job-boards.greenhouse.io/carrotfertility/jobs/6143586004) — Remote
 
 ## Elation Health
 - [Account Executive, Small Group ](https://www.elationhealth.com/about-us/careers?gh_jid=5678371) — US-Remote
@@ -40,6 +39,7 @@
 - [Senior Revenue Operations Manager](https://job-boards.greenhouse.io/garnerhealth/jobs/6113124004) — Remote
 
 ## GeneDx
+- [Regional Account Executive - General Pediatrics (Greater Michigan)](https://genedx.com/careers/openings?gh_jid=4732400005) — Remote
 - [Regional Account Executive - General Pediatrics (Long Island & Queens)](https://genedx.com/careers/openings?gh_jid=4725527005) — Remote
 - [Regional Account Executive - Specialty (Central/Eastern PA)](https://genedx.com/careers/openings?gh_jid=4719989005) — Remote
 - [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4720000005) — Remote
@@ -71,12 +71,8 @@
 ## SmarterDx
 - [Senior Client Success Manager (SmarterNotes)](https://job-boards.greenhouse.io/smarterdx/jobs/5188125007) — Remote (United States)
 
-## SonderMind
-- [Account Manager, Health Plans](https://jobs.ashbyhq.com/sondermind/faa86497-be8a-4006-aa6c-533a8bf9d35d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
-
 ## Tebra
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
-- [Account Executive, Patient Experience](https://job-boards.greenhouse.io/tebra/jobs/4681866005) — United States - Remote
 
 ---
 *Boards not resolving (prune or fix token in companies.txt):* American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
