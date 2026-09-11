@@ -1,4 +1,4 @@
-# Medical Sales & Client Roles (IC) - 2026-09-10
+# Medical Sales & Client Roles (IC) - 2026-09-11
 
 **45 matching roles** across 23 live boards
 
@@ -43,7 +43,6 @@
 - [Regional Account Executive - General Pediatrics (Long Island & Queens)](https://genedx.com/careers/openings?gh_jid=4725527005) — Remote
 - [Regional Account Executive - Specialty (Central/Eastern PA)](https://genedx.com/careers/openings?gh_jid=4719989005) — Remote
 - [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4720000005) — Remote
-- [Regional Account Executive - Specialty (North NJ/South NY)](https://genedx.com/careers/openings?gh_jid=4724109005) — Remote
 - [Regional Account Executive - Specialty (Tampa)](https://genedx.com/careers/openings?gh_jid=4731217005) — Remote
 
 ## Headway
@@ -67,6 +66,7 @@
 - [Digital Health Account Executive, Influencer & Creator Partnerships](https://jobs.ashbyhq.com/openloophealth/51ad11ec-6738-4e08-a850-9cc3bd90d4b5) — United States - Remote; Remote
 - [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
+- [Revenue Operations Manager](https://jobs.ashbyhq.com/openloophealth/73a20ea9-594e-4125-ba57-cabfd7abe530) — United States - Remote; Remote
 
 ## SmarterDx
 - [Senior Client Success Manager (SmarterNotes)](https://job-boards.greenhouse.io/smarterdx/jobs/5188125007) — Remote (United States)
