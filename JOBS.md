@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-09-12
+# Medical Sales & Client Roles (IC) - 2026-09-13
 
-**45 matching roles** across 23 live boards
+**46 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -53,6 +53,7 @@
 - [Client Success Portfolio Manager](https://jobs.lever.co/includedhealth/6a5a34b7-9297-4d3d-97e7-a8025356fa47) — Remote
 
 ## Maven Clinic
+- [Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8801848002) — New York, NY; Remote, US (Hub cities)
 - [Revenue Operations Manager (Payments and Reconciliation)](https://job-boards.greenhouse.io/mavenclinic/jobs/8620831002) — New York, NY; Remote, US (Hub cities)
 - [Senior Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8657117002) — Remote
 
