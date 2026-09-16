@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-09-15
+# Medical Sales & Client Roles (IC) - 2026-09-16
 
-**46 matching roles** across 23 live boards
+**45 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -15,9 +15,6 @@
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4679893005) — Southeast San Antonio, TX
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707243005) — Springfield, MO
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4080962005) — Remote
-
-## Carrot Fertility
-- [Customer Success Executive](https://job-boards.greenhouse.io/carrotfertility/jobs/6138104004) — Remote
 
 ## Elation Health
 - [Account Executive, Small Group ](https://www.elationhealth.com/about-us/careers?gh_jid=5678371) — US-Remote
@@ -36,6 +33,7 @@
 - [Senior Account Executive - Southeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132207004) — Remote
 - [Senior Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132225004) — Remote
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
+- [Senior Client Success Manager (Large Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6184942004) — Remote
 - [Senior Revenue Operations Manager](https://job-boards.greenhouse.io/garnerhealth/jobs/6113124004) — Remote
 
 ## GeneDx
@@ -54,7 +52,6 @@
 
 ## Maven Clinic
 - [Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8801848002) — New York, NY; Remote, US (Hub cities)
-- [Revenue Operations Manager (Payments and Reconciliation)](https://job-boards.greenhouse.io/mavenclinic/jobs/8620831002) — New York, NY; Remote, US (Hub cities)
 - [Senior Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8657117002) — Remote
 
 ## Natera
