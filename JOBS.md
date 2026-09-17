@@ -1,12 +1,11 @@
-# Medical Sales & Client Roles (IC) - 2026-09-16
+# Medical Sales & Client Roles (IC) - 2026-09-17
 
-**45 matching roles** across 23 live boards
+**43 matching roles** across 23 live boards
 
 
 ## Assort Health
 - [Account Executive - Health Systems](https://jobs.ashbyhq.com/assorthealth/11139b8c-9570-410d-989e-e3b74c5fcac6) — Remote, USA; Remote
 - [Account Executive, Enterprise](https://jobs.ashbyhq.com/assorthealth/8f35b822-e49a-4ccb-bab4-e464e01bc1b0) — San Francisco; Remote
-- [Account Executive, Mid-Market](https://jobs.ashbyhq.com/assorthealth/4dd2f24c-93b0-430c-840d-49db7865f1ce) — San Francisco; Remote
 
 ## BillionToOne
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
@@ -15,6 +14,9 @@
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4679893005) — Southeast San Antonio, TX
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707243005) — Springfield, MO
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4080962005) — Remote
+
+## Carrot Fertility
+- [Customer Success Executive, Health Plans](https://job-boards.greenhouse.io/carrotfertility/jobs/6190610004) — Remote
 
 ## Elation Health
 - [Account Executive, Small Group ](https://www.elationhealth.com/about-us/careers?gh_jid=5678371) — US-Remote
@@ -25,7 +27,6 @@
 - [Account Executive - Central](https://job-boards.greenhouse.io/garnerhealth/jobs/6132250004) — Remote
 - [Account Executive - Mid-Central](https://job-boards.greenhouse.io/garnerhealth/jobs/6132252004) — Remote
 - [Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132265004) — Remote
-- [Account Executive - Southeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132272004) — Remote
 - [Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132277004) — Remote
 - [Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132280004) — Remote
 - [Client Success Manager (Small-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6091990004) — Remote
@@ -56,7 +57,6 @@
 
 ## Natera
 - [Account Sales Representative](https://job-boards.greenhouse.io/natera/jobs/6010933004) — Jacksonville, FL; Tallahassee, FL
-- [National Account Manager, LGP & PE](https://job-boards.greenhouse.io/natera/jobs/6021568004) — United States
 
 ## OpenLoop Health
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
