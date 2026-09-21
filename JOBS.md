@@ -1,4 +1,4 @@
-# Medical Sales & Client Roles (IC) - 2026-09-20
+# Medical Sales & Client Roles (IC) - 2026-09-21
 
 **42 matching roles** across 23 live boards
 
@@ -38,6 +38,7 @@
 - [Senior Revenue Operations Manager](https://job-boards.greenhouse.io/garnerhealth/jobs/6113124004) — Remote
 
 ## GeneDx
+- [Regional Account Executive - General Pediatrics (Colorado)](https://genedx.com/careers/openings?gh_jid=4736394005) — Remote
 - [Regional Account Executive - General Pediatrics (Greater Michigan)](https://genedx.com/careers/openings?gh_jid=4732400005) — Remote
 - [Regional Account Executive - General Pediatrics (Long Island & Queens)](https://genedx.com/careers/openings?gh_jid=4725527005) — Remote
 - [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4720000005) — Remote
@@ -59,7 +60,6 @@
 
 ## OpenLoop Health
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
-- [Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/c30ac59f-7813-47e0-8d57-27504aad13a1) — United States - Remote; Remote
 - [Digital Health Account Executive, Influencer & Creator Partnerships](https://jobs.ashbyhq.com/openloophealth/51ad11ec-6738-4e08-a850-9cc3bd90d4b5) — United States - Remote; Remote
 - [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
