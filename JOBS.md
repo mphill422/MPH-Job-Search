@@ -1,15 +1,13 @@
-# Medical Sales & Client Roles (IC) - 2026-09-21
+# Medical Sales & Client Roles (IC) - 2026-09-22
 
-**42 matching roles** across 23 live boards
+**41 matching roles** across 23 live boards
 
 
 ## Assort Health
-- [Account Executive - Health Systems](https://jobs.ashbyhq.com/assorthealth/11139b8c-9570-410d-989e-e3b74c5fcac6) — Remote, USA; Remote
 - [Account Executive, Enterprise](https://jobs.ashbyhq.com/assorthealth/8f35b822-e49a-4ccb-bab4-e464e01bc1b0) — San Francisco; Remote
 
 ## BillionToOne
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
-- [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707181005) — South Miami, FL
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4685595005) — East Phoenix, AZ
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4679893005) — Southeast San Antonio, TX
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707243005) — Springfield, MO
@@ -35,7 +33,7 @@
 - [Senior Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132225004) — Remote
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
 - [Senior Client Success Manager (Large Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6184942004) — Remote
-- [Senior Revenue Operations Manager](https://job-boards.greenhouse.io/garnerhealth/jobs/6113124004) — Remote
+- [Senior Revenue Operations Manager](https://job-boards.greenhouse.io/garnerhealth/jobs/6113124004) — Hybrid
 
 ## GeneDx
 - [Regional Account Executive - General Pediatrics (Colorado)](https://genedx.com/careers/openings?gh_jid=4736394005) — Remote
@@ -63,6 +61,7 @@
 - [Digital Health Account Executive, Influencer & Creator Partnerships](https://jobs.ashbyhq.com/openloophealth/51ad11ec-6738-4e08-a850-9cc3bd90d4b5) — United States - Remote; Remote
 - [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
+- [Revenue Insights Analyst, Customer Success](https://jobs.ashbyhq.com/openloophealth/4376d081-327c-4eee-9fe1-3d298a245564) — United States - Remote; Remote
 - [Revenue Operations Manager](https://jobs.ashbyhq.com/openloophealth/73a20ea9-594e-4125-ba57-cabfd7abe530) — United States - Remote; Remote
 
 ## SmarterDx
