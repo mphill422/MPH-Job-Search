@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-09-22
+# Medical Sales & Client Roles (IC) - 2026-09-23
 
-**41 matching roles** across 23 live boards
+**43 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -9,6 +9,7 @@
 ## BillionToOne
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4685595005) — East Phoenix, AZ
+- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4736856005) — South Tampa, FL
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4679893005) — Southeast San Antonio, TX
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707243005) — Springfield, MO
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4080962005) — Remote
@@ -54,7 +55,7 @@
 - [Senior Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8657117002) — Remote
 
 ## Natera
-- [Account Sales Representative](https://job-boards.greenhouse.io/natera/jobs/6010933004) — Jacksonville, FL; Tallahassee, FL
+- [Account Sales Representative](https://job-boards.greenhouse.io/natera/jobs/6205193004) — Jacksonville, FL
 
 ## OpenLoop Health
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
@@ -63,6 +64,7 @@
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
 - [Revenue Insights Analyst, Customer Success](https://jobs.ashbyhq.com/openloophealth/4376d081-327c-4eee-9fe1-3d298a245564) — United States - Remote; Remote
 - [Revenue Operations Manager](https://jobs.ashbyhq.com/openloophealth/73a20ea9-594e-4125-ba57-cabfd7abe530) — United States - Remote; Remote
+- [Senior Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/d83b5471-5a6c-46c5-a94d-342134e4dbde) — United States - Remote; Remote
 
 ## SmarterDx
 - [Senior Client Success Manager (SmarterNotes)](https://job-boards.greenhouse.io/smarterdx/jobs/5188125007) — Remote (United States)
