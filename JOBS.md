@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-09-24
+# Medical Sales & Client Roles (IC) - 2026-09-25
 
-**44 matching roles** across 23 live boards
+**42 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -8,7 +8,6 @@
 
 ## BillionToOne
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
-- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4685595005) — East Phoenix, AZ
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4736856005) — South Tampa, FL
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4679893005) — Southeast San Antonio, TX
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707243005) — Springfield, MO
@@ -66,9 +65,6 @@
 - [Revenue Insights Analyst, Customer Success](https://jobs.ashbyhq.com/openloophealth/4376d081-327c-4eee-9fe1-3d298a245564) — United States - Remote; Remote
 - [Revenue Operations Manager](https://jobs.ashbyhq.com/openloophealth/73a20ea9-594e-4125-ba57-cabfd7abe530) — United States - Remote; Remote
 - [Senior Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/d83b5471-5a6c-46c5-a94d-342134e4dbde) — United States - Remote; Remote
-
-## SmarterDx
-- [Senior Client Success Manager (SmarterNotes)](https://job-boards.greenhouse.io/smarterdx/jobs/5188125007) — Remote (United States)
 
 ## Tebra
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
