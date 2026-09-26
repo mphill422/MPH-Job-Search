@@ -1,4 +1,4 @@
-# Medical Sales & Client Roles (IC) - 2026-09-25
+# Medical Sales & Client Roles (IC) - 2026-09-26
 
 **42 matching roles** across 23 live boards
 
@@ -47,9 +47,6 @@
 - [Account Executive](https://jobs.ashbyhq.com/headway/f7794bf8-8f23-41e2-b044-b38bedb0a97a) — Remote; Remote
 - [Revenue Operations Manager (Process)](https://jobs.ashbyhq.com/headway/3433bad6-2ae5-4451-9433-3a12b6f586e0) — Remote - New York; Remote
 
-## Included Health
-- [Client Success Portfolio Manager](https://jobs.lever.co/includedhealth/6a5a34b7-9297-4d3d-97e7-a8025356fa47) — Remote
-
 ## Maven Clinic
 - [Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8801848002) — New York, NY; Remote, US (Hub cities)
 - [Senior Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8657117002) — Remote
@@ -58,6 +55,7 @@
 - [Account Sales Representative](https://job-boards.greenhouse.io/natera/jobs/6205193004) — Jacksonville, FL
 
 ## OpenLoop Health
+- [Account Executive, Care Management](https://jobs.ashbyhq.com/openloophealth/89aeca0a-c5e1-42d9-beee-ae372af00b51) — United States - Remote; Remote
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
 - [Digital Health Account Executive, Influencer & Creator Partnerships](https://jobs.ashbyhq.com/openloophealth/51ad11ec-6738-4e08-a850-9cc3bd90d4b5) — United States - Remote; Remote
 - [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
