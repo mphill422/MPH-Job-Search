@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-09-27
+# Medical Sales & Client Roles (IC) - 2026-09-28
 
-**42 matching roles** across 23 live boards
+**43 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -33,6 +33,7 @@
 - [Senior Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132225004) — Remote
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
 - [Senior Client Success Manager (Large Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6184942004) — Remote
+- [Senior Client Success Manager (Mid-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6209824004) — Remote
 - [Senior Revenue Operations Manager](https://job-boards.greenhouse.io/garnerhealth/jobs/6113124004) — Hybrid
 
 ## GeneDx
