@@ -1,4 +1,4 @@
-# Medical Sales & Client Roles (IC) - 2026-09-28
+# Medical Sales & Client Roles (IC) - 2026-09-29
 
 **43 matching roles** across 23 live boards
 
@@ -39,7 +39,6 @@
 ## GeneDx
 - [Regional Account Executive - General Pediatrics (Colorado)](https://genedx.com/careers/openings?gh_jid=4736394005) — Remote
 - [Regional Account Executive - General Pediatrics (Greater Michigan)](https://genedx.com/careers/openings?gh_jid=4732400005) — Remote
-- [Regional Account Executive - General Pediatrics (Long Island & Queens)](https://genedx.com/careers/openings?gh_jid=4725527005) — Remote
 - [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4720000005) — Remote
 - [Regional Account Executive - Specialty (KS/NE/SD)](https://genedx.com/careers/openings?gh_jid=4737363005) — Remote
 - [Regional Account Executive - Specialty (Tampa)](https://genedx.com/careers/openings?gh_jid=4731217005) — Remote
@@ -64,6 +63,9 @@
 - [Revenue Insights Analyst, Customer Success](https://jobs.ashbyhq.com/openloophealth/4376d081-327c-4eee-9fe1-3d298a245564) — United States - Remote; Remote
 - [Revenue Operations Manager](https://jobs.ashbyhq.com/openloophealth/73a20ea9-594e-4125-ba57-cabfd7abe530) — United States - Remote; Remote
 - [Senior Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/d83b5471-5a6c-46c5-a94d-342134e4dbde) — United States - Remote; Remote
+
+## Rula
+- [Account Executive (Midwest)](https://jobs.ashbyhq.com/rula/90f4cba7-2ece-4c09-9bdc-b23f5e375bcb) — Remote - Chicago; Remote - Detriot; Remote - Minneapolis-St. Paul; Remote
 
 ## Tebra
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
