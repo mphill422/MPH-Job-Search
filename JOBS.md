@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-09-29
+# Medical Sales & Client Roles (IC) - 2026-09-30
 
-**43 matching roles** across 23 live boards
+**42 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -23,7 +23,6 @@
 
 ## Garner Health
 - [Account Executive - Central](https://job-boards.greenhouse.io/garnerhealth/jobs/6132250004) — Remote
-- [Account Executive - Mid-Central](https://job-boards.greenhouse.io/garnerhealth/jobs/6132252004) — Remote
 - [Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132265004) — Remote
 - [Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132277004) — Remote
 - [Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132280004) — Remote
