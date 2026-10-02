@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-10-01
+# Medical Sales & Client Roles (IC) - 2026-10-02
 
-**41 matching roles** across 23 live boards
+**40 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -39,7 +39,6 @@
 - [Regional Account Executive - General Pediatrics (Greater Michigan)](https://genedx.com/careers/openings?gh_jid=4732400005) — Remote
 - [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4720000005) — Remote
 - [Regional Account Executive - Specialty (KS/NE/SD)](https://genedx.com/careers/openings?gh_jid=4737363005) — Remote
-- [Regional Account Executive - Specialty (Tampa)](https://genedx.com/careers/openings?gh_jid=4731217005) — Remote
 
 ## Headway
 - [Account Executive](https://jobs.ashbyhq.com/headway/f7794bf8-8f23-41e2-b044-b38bedb0a97a) — Remote; Remote
