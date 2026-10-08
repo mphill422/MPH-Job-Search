@@ -1,4 +1,4 @@
-# Medical Sales & Client Roles (IC) - 2026-10-07
+# Medical Sales & Client Roles (IC) - 2026-10-08
 
 **38 matching roles** across 23 live boards
 
@@ -17,9 +17,9 @@
 - [Customer Success Executive, Health Plans](https://job-boards.greenhouse.io/carrotfertility/jobs/6190610004) — Remote
 
 ## Elation Health
-- [Account Executive, Small Group ](https://www.elationhealth.com/about-us/careers?gh_jid=5678371) — US-Remote
-- [Customer Success Manager, Small Group](https://www.elationhealth.com/about-us/careers?gh_jid=8042686) — US- Remote
-- [Enterprise Customer Success Manager](https://www.elationhealth.com/about-us/careers?gh_jid=8128196) — US- Remote
+- [Account Executive, Small Group ](https://www.elationhealth.com/about-us/careers/?gh_jid=5678371) — US-Remote
+- [Customer Success Manager, Small Group](https://www.elationhealth.com/about-us/careers/?gh_jid=8042686) — US- Remote
+- [Enterprise Customer Success Manager](https://www.elationhealth.com/about-us/careers/?gh_jid=8128196) — US- Remote
 
 ## Garner Health
 - [Account Executive - Central](https://job-boards.greenhouse.io/garnerhealth/jobs/6132250004) — Remote
