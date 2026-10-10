@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-10-09
+# Medical Sales & Client Roles (IC) - 2026-10-10
 
-**38 matching roles** across 23 live boards
+**39 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -64,6 +64,9 @@
 
 ## Tebra
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
+
+## Weave
+- [Customer Success Manager, SMB](https://jobs.ashbyhq.com/weave/1ad5331d-604e-4bd5-9f04-34f95feed3ef) — Weave - Headquarters (Lehi, UT); US Remote; Remote
 
 ---
 *Boards not resolving (prune or fix token in companies.txt):* American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
