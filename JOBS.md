@@ -1,7 +1,10 @@
-# Medical Sales & Client Roles (IC) - 2026-10-11
+# Medical Sales & Client Roles (IC) - 2026-10-12
 
 **39 matching roles** across 23 live boards
 
+
+## Aledade
+- [Growth Development Sales Representative, Remote](https://jobs.lever.co/aledade/66efdd19-0be4-4e99-a558-21e361aff205) — Remote, United States
 
 ## Assort Health
 - [Account Executive, Enterprise](https://jobs.ashbyhq.com/assorthealth/8f35b822-e49a-4ccb-bab4-e464e01bc1b0) — San Francisco; Remote
@@ -31,7 +34,6 @@
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
 - [Senior Client Success Manager (Large Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6184942004) — Remote
 - [Senior Client Success Manager (Mid-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6209824004) — Remote
-- [Senior Revenue Operations Manager](https://job-boards.greenhouse.io/garnerhealth/jobs/6113124004) — Hybrid
 
 ## GeneDx
 - [Regional Account Executive - General Pediatrics (Colorado)](https://genedx.com/careers/openings?gh_jid=4736394005) — Remote
