@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-10-14
+# Medical Sales & Client Roles (IC) - 2026-10-15
 
-**40 matching roles** across 23 live boards
+**38 matching roles** across 23 live boards
 
 
 ## Aledade
@@ -16,9 +16,6 @@
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4743462005) — Springfield, MA
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707243005) — Springfield, MO
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4080962005) — Remote
-
-## Carrot Fertility
-- [Customer Success Executive, Health Plans](https://job-boards.greenhouse.io/carrotfertility/jobs/6190610004) — Remote
 
 ## Elation Health
 - [Account Executive, Small Group ](https://www.elationhealth.com/about-us/careers/?gh_jid=5678371) — US-Remote
@@ -38,7 +35,6 @@
 
 ## GeneDx
 - [Regional Account Executive - General Pediatrics (Colorado)](https://genedx.com/careers/openings?gh_jid=4736394005) — Remote
-- [Regional Account Executive - General Pediatrics (Greater Michigan)](https://genedx.com/careers/openings?gh_jid=4732400005) — Remote
 - [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4720000005) — Remote
 - [Regional Account Executive - Specialty (KS/NE/SD)](https://genedx.com/careers/openings?gh_jid=4737363005) — Remote
 
@@ -59,11 +55,13 @@
 - [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
 - [Revenue Insights Analyst, Customer Success](https://jobs.ashbyhq.com/openloophealth/4376d081-327c-4eee-9fe1-3d298a245564) — United States - Remote; Remote
-- [Revenue Operations Manager](https://jobs.ashbyhq.com/openloophealth/73a20ea9-594e-4125-ba57-cabfd7abe530) — United States - Remote; Remote
 - [Senior Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/d83b5471-5a6c-46c5-a94d-342134e4dbde) — United States - Remote; Remote
 
 ## Rula
 - [Account Executive (Midwest)](https://jobs.ashbyhq.com/rula/90f4cba7-2ece-4c09-9bdc-b23f5e375bcb) — Remote - Chicago; Remote - Detriot; Remote - Minneapolis-St. Paul; Remote
+
+## SonderMind
+- [Account Manager, Health Plans](https://jobs.ashbyhq.com/sondermind/483a790a-80ab-4cb0-9df6-bea8fd765e6d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
 
 ## Tebra
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
