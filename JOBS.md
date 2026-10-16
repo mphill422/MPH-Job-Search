@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-10-15
+# Medical Sales & Client Roles (IC) - 2026-10-16
 
-**38 matching roles** across 23 live boards
+**37 matching roles** across 23 live boards
 
 
 ## Aledade
@@ -35,8 +35,7 @@
 
 ## GeneDx
 - [Regional Account Executive - General Pediatrics (Colorado)](https://genedx.com/careers/openings?gh_jid=4736394005) — Remote
-- [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4720000005) — Remote
-- [Regional Account Executive - Specialty (KS/NE/SD)](https://genedx.com/careers/openings?gh_jid=4737363005) — Remote
+- [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4744394005) — Remote
 
 ## Headway
 - [Account Executive](https://jobs.ashbyhq.com/headway/f7794bf8-8f23-41e2-b044-b38bedb0a97a) — Remote; Remote
