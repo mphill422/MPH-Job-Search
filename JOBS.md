@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-10-16
+# Medical Sales & Client Roles (IC) - 2026-10-17
 
-**37 matching roles** across 23 live boards
+**36 matching roles** across 23 live boards
 
 
 ## Aledade
@@ -12,7 +12,6 @@
 ## BillionToOne
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4736856005) — South Tampa, FL
-- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4679893005) — Southeast San Antonio, TX
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4743462005) — Springfield, MA
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4707243005) — Springfield, MO
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4080962005) — Remote
