@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-10-21
+# Medical Sales & Client Roles (IC) - 2026-10-22
 
-**36 matching roles** across 23 live boards
+**38 matching roles** across 23 live boards
 
 
 ## Aledade
@@ -46,6 +46,8 @@
 
 ## Natera
 - [Account Sales Representative](https://job-boards.greenhouse.io/natera/jobs/6205193004) — Jacksonville, FL
+- [Account Sales Representative (Orlando West)](https://job-boards.greenhouse.io/natera/jobs/6231334004) — Orlando, FL
+- [Account Sales Representative (Orlando West)](https://job-boards.greenhouse.io/natera/jobs/6231335004) — Orlando, FL
 
 ## OpenLoop Health
 - [Account Executive, Care Management](https://jobs.ashbyhq.com/openloophealth/89aeca0a-c5e1-42d9-beee-ae372af00b51) — United States - Remote; Remote
