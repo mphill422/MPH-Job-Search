@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-10-23
+# Medical Sales & Client Roles (IC) - 2026-10-24
 
-**37 matching roles** across 23 live boards
+**36 matching roles** across 23 live boards
 
 
 ## Aledade
@@ -62,9 +62,6 @@
 
 ## SonderMind
 - [Account Manager, Health Plans](https://jobs.ashbyhq.com/sondermind/483a790a-80ab-4cb0-9df6-bea8fd765e6d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
-
-## Tebra
-- [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
 
 ---
 *Boards not resolving (prune or fix token in companies.txt):* American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
