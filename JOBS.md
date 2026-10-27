@@ -1,4 +1,4 @@
-# Medical Sales & Client Roles (IC) - 2026-10-26
+# Medical Sales & Client Roles (IC) - 2026-10-27
 
 **35 matching roles** across 23 live boards
 
@@ -11,9 +11,10 @@
 
 ## BillionToOne
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
-- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4736856005) — South Tampa, FL
-- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4743462005) — Springfield, MA
-- [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4080962005) — Remote
+- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747904005) — South Tampa, FL
+- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747906005) — Springfield, MA
+- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747903005) — Springfield, MO
+- [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747894005) — Remote
 
 ## Elation Health
 - [Account Executive, Small Group ](https://www.elationhealth.com/about-us/careers/?gh_jid=5678371) — US-Remote
@@ -21,7 +22,6 @@
 - [Enterprise Customer Success Manager](https://www.elationhealth.com/about-us/careers/?gh_jid=8128196) — US- Remote
 
 ## Garner Health
-- [Account Executive - Central](https://job-boards.greenhouse.io/garnerhealth/jobs/6132250004) — Remote
 - [Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132265004) — Remote
 - [Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132277004) — Remote
 - [Client Success Manager (Small-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6091990004) — Remote
