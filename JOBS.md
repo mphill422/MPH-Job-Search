@@ -1,10 +1,7 @@
-# Medical Sales & Client Roles (IC) - 2026-10-27
+# Medical Sales & Client Roles (IC) - 2026-10-28
 
-**35 matching roles** across 23 live boards
+**34 matching roles** across 23 live boards
 
-
-## Aledade
-- [Growth Development Sales Representative, Remote](https://jobs.lever.co/aledade/66efdd19-0be4-4e99-a558-21e361aff205) — Remote, United States
 
 ## Assort Health
 - [Account Executive, Enterprise](https://jobs.ashbyhq.com/assorthealth/8f35b822-e49a-4ccb-bab4-e464e01bc1b0) — San Francisco; Remote
@@ -13,7 +10,6 @@
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747904005) — South Tampa, FL
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747906005) — Springfield, MA
-- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747903005) — Springfield, MO
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747894005) — Remote
 
 ## Elation Health
@@ -47,6 +43,7 @@
 - [Account Sales Representative](https://job-boards.greenhouse.io/natera/jobs/6205193004) — Jacksonville, FL
 - [Account Sales Representative (Orlando West)](https://job-boards.greenhouse.io/natera/jobs/6231334004) — Orlando, FL
 - [Account Sales Representative (Orlando West)](https://job-boards.greenhouse.io/natera/jobs/6231335004) — Orlando, FL
+- [Account Sales Representative-Orlando East ](https://job-boards.greenhouse.io/natera/jobs/6237031004) — Orlando, FL
 
 ## OpenLoop Health
 - [Account Executive, Care Management](https://jobs.ashbyhq.com/openloophealth/89aeca0a-c5e1-42d9-beee-ae372af00b51) — United States - Remote; Remote
