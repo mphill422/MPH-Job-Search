@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-10-29
+# Medical Sales & Client Roles (IC) - 2026-10-30
 
-**34 matching roles** across 23 live boards
+**33 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -28,7 +28,6 @@
 - [Senior Client Success Manager (Mid-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6209824004) — Remote
 
 ## GeneDx
-- [Regional Account Executive - General Pediatrics (Colorado)](https://genedx.com/careers/openings?gh_jid=4736394005) — Remote
 - [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4744394005) — Remote
 
 ## Headway
