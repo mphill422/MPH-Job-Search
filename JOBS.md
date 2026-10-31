@@ -1,4 +1,4 @@
-# Medical Sales & Client Roles (IC) - 2026-10-30
+# Medical Sales & Client Roles (IC) - 2026-10-31
 
 **33 matching roles** across 23 live boards
 
