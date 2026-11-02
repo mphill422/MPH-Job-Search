@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-01
+# Medical Sales & Client Roles (IC) - 2026-11-02
 
-**33 matching roles** across 23 live boards
+**31 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -20,7 +20,6 @@
 ## Garner Health
 - [Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132265004) — Remote
 - [Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132277004) — Remote
-- [Client Success Manager (Small-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6091990004) — Remote
 - [Senior Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132204004) — Remote
 - [Senior Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132225004) — Remote
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
@@ -49,7 +48,6 @@
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
 - [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
-- [Revenue Insights Analyst, Customer Success](https://jobs.ashbyhq.com/openloophealth/4376d081-327c-4eee-9fe1-3d298a245564) — United States - Remote; Remote
 - [Senior Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/d83b5471-5a6c-46c5-a94d-342134e4dbde) — United States - Remote; Remote
 
 ## Rula
