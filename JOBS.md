@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-02
+# Medical Sales & Client Roles (IC) - 2026-11-03
 
-**31 matching roles** across 23 live boards
+**29 matching roles** across 22 live boards
 
 
 ## Assort Health
@@ -19,9 +19,7 @@
 
 ## Garner Health
 - [Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132265004) — Remote
-- [Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132277004) — Remote
 - [Senior Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132204004) — Remote
-- [Senior Account Executive - Southwest](https://job-boards.greenhouse.io/garnerhealth/jobs/6132225004) — Remote
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
 - [Senior Client Success Manager (Large Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6184942004) — Remote
 - [Senior Client Success Manager (Mid-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6209824004) — Remote
@@ -31,7 +29,6 @@
 
 ## Headway
 - [Account Executive](https://jobs.ashbyhq.com/headway/f7794bf8-8f23-41e2-b044-b38bedb0a97a) — Remote; Remote
-- [Revenue Operations Manager (Process)](https://jobs.ashbyhq.com/headway/3433bad6-2ae5-4451-9433-3a12b6f586e0) — Remote - New York; Remote
 
 ## Maven Clinic
 - [Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8801848002) — New York, NY; Remote, US (Hub cities)
@@ -56,5 +53,8 @@
 ## SonderMind
 - [Account Manager, Health Plans](https://jobs.ashbyhq.com/sondermind/483a790a-80ab-4cb0-9df6-bea8fd765e6d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
 
+## Tebra
+- [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
+
 ---
-*Boards not resolving (prune or fix token in companies.txt):* American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
+*Boards not resolving (prune or fix token in companies.txt):* Included Health (lv:includedhealth), American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
