@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-03
+# Medical Sales & Client Roles (IC) - 2026-11-04
 
-**29 matching roles** across 22 live boards
+**29 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -9,7 +9,6 @@
 ## BillionToOne
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747904005) — South Tampa, FL
-- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747906005) — Springfield, MA
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747894005) — Remote
 
 ## Elation Health
@@ -32,6 +31,7 @@
 
 ## Maven Clinic
 - [Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8801848002) — New York, NY; Remote, US (Hub cities)
+- [Senior Associate, Client Success](https://job-boards.greenhouse.io/mavenclinic/jobs/8929932002) — New York, NY; Remote, US (Hub cities)
 - [Senior Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8657117002) — Remote
 
 ## Natera
@@ -57,4 +57,4 @@
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
 
 ---
-*Boards not resolving (prune or fix token in companies.txt):* Included Health (lv:includedhealth), American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
+*Boards not resolving (prune or fix token in companies.txt):* American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
