@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-04
+# Medical Sales & Client Roles (IC) - 2026-11-05
 
-**29 matching roles** across 23 live boards
+**27 matching roles** across 23 live boards
 
 
 ## Assort Health
@@ -36,7 +36,6 @@
 
 ## Natera
 - [Account Sales Representative](https://job-boards.greenhouse.io/natera/jobs/6205193004) — Jacksonville, FL
-- [Account Sales Representative (Orlando West)](https://job-boards.greenhouse.io/natera/jobs/6231334004) — Orlando, FL
 - [Account Sales Representative (Orlando West)](https://job-boards.greenhouse.io/natera/jobs/6231335004) — Orlando, FL
 - [Account Sales Representative-Orlando East ](https://job-boards.greenhouse.io/natera/jobs/6237031004) — Orlando, FL
 
@@ -46,9 +45,6 @@
 - [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
 - [Senior Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/d83b5471-5a6c-46c5-a94d-342134e4dbde) — United States - Remote; Remote
-
-## Rula
-- [Account Executive (Midwest)](https://jobs.ashbyhq.com/rula/90f4cba7-2ece-4c09-9bdc-b23f5e375bcb) — Remote - Chicago; Remote - Detriot; Remote - Minneapolis-St. Paul; Remote
 
 ## SonderMind
 - [Account Manager, Health Plans](https://jobs.ashbyhq.com/sondermind/483a790a-80ab-4cb0-9df6-bea8fd765e6d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
