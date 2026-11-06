@@ -1,7 +1,10 @@
-# Medical Sales & Client Roles (IC) - 2026-11-05
+# Medical Sales & Client Roles (IC) - 2026-11-06
 
-**27 matching roles** across 23 live boards
+**25 matching roles** across 23 live boards
 
+
+## Adaptive Biotechnologies
+- [Account Manager (New Mexico)](https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8919656002) — Remote (WFH)
 
 ## Assort Health
 - [Account Executive, Enterprise](https://jobs.ashbyhq.com/assorthealth/8f35b822-e49a-4ccb-bab4-e464e01bc1b0) — San Francisco; Remote
@@ -34,11 +37,6 @@
 - [Senior Associate, Client Success](https://job-boards.greenhouse.io/mavenclinic/jobs/8929932002) — New York, NY; Remote, US (Hub cities)
 - [Senior Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8657117002) — Remote
 
-## Natera
-- [Account Sales Representative](https://job-boards.greenhouse.io/natera/jobs/6205193004) — Jacksonville, FL
-- [Account Sales Representative (Orlando West)](https://job-boards.greenhouse.io/natera/jobs/6231335004) — Orlando, FL
-- [Account Sales Representative-Orlando East ](https://job-boards.greenhouse.io/natera/jobs/6237031004) — Orlando, FL
-
 ## OpenLoop Health
 - [Account Executive, Care Management](https://jobs.ashbyhq.com/openloophealth/89aeca0a-c5e1-42d9-beee-ae372af00b51) — United States - Remote; Remote
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
@@ -47,7 +45,7 @@
 - [Senior Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/d83b5471-5a6c-46c5-a94d-342134e4dbde) — United States - Remote; Remote
 
 ## SonderMind
-- [Account Manager, Health Plans](https://jobs.ashbyhq.com/sondermind/483a790a-80ab-4cb0-9df6-bea8fd765e6d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
+- [Account Manager, Health Plans](https://jobs.ashbyhq.com/Sondermind/483a790a-80ab-4cb0-9df6-bea8fd765e6d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
 
 ## Tebra
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
