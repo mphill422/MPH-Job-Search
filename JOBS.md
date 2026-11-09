@@ -1,4 +1,4 @@
-# Medical Sales & Client Roles (IC) - 2026-11-08
+# Medical Sales & Client Roles (IC) - 2026-11-09
 
 **25 matching roles** across 23 live boards
 
@@ -11,6 +11,7 @@
 
 ## BillionToOne
 - [Oncology Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4481121005) — Remote
+- [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4752788005) — East Bay, CA
 - [Prenatal Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747904005) — South Tampa, FL
 - [Prenatal Senior Account Executive](https://job-boards.greenhouse.io/billiontoone/jobs/4747894005) — Remote
 
@@ -25,9 +26,6 @@
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
 - [Senior Client Success Manager (Large Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6184942004) — Remote
 - [Senior Client Success Manager (Mid-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6209824004) — Remote
-
-## GeneDx
-- [Regional Account Executive - Specialty (DC/Alexandria)](https://genedx.com/careers/openings?gh_jid=4744394005) — Remote
 
 ## Headway
 - [Account Executive](https://jobs.ashbyhq.com/headway/f7794bf8-8f23-41e2-b044-b38bedb0a97a) — Remote; Remote
