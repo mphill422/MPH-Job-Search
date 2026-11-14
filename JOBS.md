@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-13
+# Medical Sales & Client Roles (IC) - 2026-11-14
 
-**25 matching roles** across 23 live boards
+**26 matching roles** across 23 live boards
 
 
 ## Adaptive Biotechnologies
@@ -26,6 +26,9 @@
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
 - [Senior Client Success Manager (Large Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6184942004) — Remote
 - [Senior Client Success Manager (Mid-Market)](https://job-boards.greenhouse.io/garnerhealth/jobs/6209824004) — Remote
+
+## GeneDx
+- [Regional Account Executive - Specialty (Omaha/Iowa)](https://genedx.com/careers/openings?gh_jid=4754348005) — Remote
 
 ## Headway
 - [Account Executive](https://jobs.ashbyhq.com/headway/f7794bf8-8f23-41e2-b044-b38bedb0a97a) — Remote; Remote
