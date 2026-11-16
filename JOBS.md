@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-15
+# Medical Sales & Client Roles (IC) - 2026-11-16
 
-**26 matching roles** across 23 live boards
+**27 matching roles** across 23 live boards
 
 
 ## Adaptive Biotechnologies
@@ -29,6 +29,7 @@
 
 ## GeneDx
 - [Regional Account Executive - Specialty (Omaha/Iowa)](https://genedx.com/careers/openings?gh_jid=4754348005) — Remote
+- [Regional Account Executive - Specialty (Western MA, CT, RI)](https://genedx.com/careers/openings?gh_jid=4754558005) — Remote
 
 ## Headway
 - [Account Executive](https://jobs.ashbyhq.com/headway/f7794bf8-8f23-41e2-b044-b38bedb0a97a) — Remote; Remote
