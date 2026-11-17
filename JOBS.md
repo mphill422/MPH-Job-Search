@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-16
+# Medical Sales & Client Roles (IC) - 2026-11-17
 
-**27 matching roles** across 23 live boards
+**29 matching roles** across 22 live boards
 
 
 ## Adaptive Biotechnologies
@@ -39,6 +39,10 @@
 - [Senior Associate, Client Success](https://job-boards.greenhouse.io/mavenclinic/jobs/8929932002) — New York, NY; Remote, US (Hub cities)
 - [Senior Client Success Manager](https://job-boards.greenhouse.io/mavenclinic/jobs/8657117002) — Remote
 
+## Natera
+- [Account Sales Representative-Orlando East ](https://job-boards.greenhouse.io/natera/jobs/6237031004) — Orlando, FL
+- [Inside Sales Specialist-Temp](https://job-boards.greenhouse.io/natera/jobs/6263355004) — US Remote
+
 ## OpenLoop Health
 - [Account Executive, Care Management](https://jobs.ashbyhq.com/openloophealth/89aeca0a-c5e1-42d9-beee-ae372af00b51) — United States - Remote; Remote
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
@@ -53,4 +57,4 @@
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
 
 ---
-*Boards not resolving (prune or fix token in companies.txt):* American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
+*Boards not resolving (prune or fix token in companies.txt):* Aledade (lv:aledade), American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
