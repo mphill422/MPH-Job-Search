@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-17
+# Medical Sales & Client Roles (IC) - 2026-11-18
 
-**29 matching roles** across 22 live boards
+**29 matching roles** across 23 live boards
 
 
 ## Adaptive Biotechnologies
@@ -57,4 +57,4 @@
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
 
 ---
-*Boards not resolving (prune or fix token in companies.txt):* Aledade (lv:aledade), American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
+*Boards not resolving (prune or fix token in companies.txt):* American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
