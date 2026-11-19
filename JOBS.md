@@ -1,10 +1,11 @@
-# Medical Sales & Client Roles (IC) - 2026-11-18
+# Medical Sales & Client Roles (IC) - 2026-11-19
 
-**29 matching roles** across 23 live boards
+**31 matching roles** across 22 live boards
 
 
 ## Adaptive Biotechnologies
 - [Account Manager (New Mexico)](https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8919656002) — Remote (WFH)
+- [Revenue Operations Specialist](https://www.adaptivebiotech.com/career-listings/listing?gh_jid=8944838002) — Remote (WFH)
 
 ## Assort Health
 - [Account Executive, Enterprise](https://jobs.ashbyhq.com/assorthealth/8f35b822-e49a-4ccb-bab4-e464e01bc1b0) — San Francisco; Remote
@@ -21,6 +22,7 @@
 - [Enterprise Customer Success Manager](https://www.elationhealth.com/about-us/careers/?gh_jid=8128196) — US- Remote
 
 ## Garner Health
+- [Account Executive - Mid-Central](https://job-boards.greenhouse.io/garnerhealth/jobs/6265287004) — Remote
 - [Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132265004) — Remote
 - [Senior Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132204004) — Remote
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
@@ -57,4 +59,4 @@
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4712282005) — United States - Remote
 
 ---
-*Boards not resolving (prune or fix token in companies.txt):* American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
+*Boards not resolving (prune or fix token in companies.txt):* Cedar (ab:cedar), American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
