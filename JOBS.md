@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-20
+# Medical Sales & Client Roles (IC) - 2026-11-21
 
-**27 matching roles** across 22 live boards
+**29 matching roles** across 22 live boards
 
 
 ## Adaptive Biotechnologies
@@ -47,6 +47,10 @@
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
 - [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
+
+## Rula
+- [Provider Account Executive - Psych](https://jobs.ashbyhq.com/rula/d98fd42b-087b-4e5e-863c-fbd088585788) — Remote - United States; Remote
+- [Provider Account Executive - Therapy](https://jobs.ashbyhq.com/rula/ed0fdad9-19c2-442a-a65c-d1120bf6e1e4) — Remote - United States; Remote
 
 ## SonderMind
 - [Account Manager, Health Plans](https://jobs.ashbyhq.com/Sondermind/483a790a-80ab-4cb0-9df6-bea8fd765e6d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
