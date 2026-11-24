@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-22
+# Medical Sales & Client Roles (IC) - 2026-11-24
 
-**29 matching roles** across 22 live boards
+**28 matching roles** across 22 live boards
 
 
 ## Adaptive Biotechnologies
@@ -22,7 +22,6 @@
 - [Enterprise Customer Success Manager](https://www.elationhealth.com/about-us/careers/?gh_jid=8128196) — US- Remote
 
 ## Garner Health
-- [Account Executive - Mid-Central](https://job-boards.greenhouse.io/garnerhealth/jobs/6265287004) — Remote
 - [Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132265004) — Remote
 - [Senior Account Executive - Northeast](https://job-boards.greenhouse.io/garnerhealth/jobs/6132204004) — Remote
 - [Senior Account Executive - West](https://job-boards.greenhouse.io/garnerhealth/jobs/6132228004) — Remote
@@ -41,7 +40,6 @@
 
 ## Natera
 - [Account Sales Representative-Orlando East ](https://job-boards.greenhouse.io/natera/jobs/6237031004) — Orlando, FL
-- [Inside Sales Specialist-Temp](https://job-boards.greenhouse.io/natera/jobs/6263355004) — US Remote
 
 ## OpenLoop Health
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
@@ -57,6 +55,9 @@
 
 ## Tebra
 - [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4757112005) — United States - Remote
+
+## Weave
+- [Sr Account Executive, Mid Market & Enterprise](https://jobs.ashbyhq.com/weave/61331714-b481-45f0-9a82-653e6965c23f) — US Remote; Remote
 
 ---
 *Boards not resolving (prune or fix token in companies.txt):* Cedar (ab:cedar), American Oncology Network (sr:AmericanOncologyNetwork), OneOncology (sr:OneOncology), Millennium Physician Group (sr:MillenniumPhysicianGroup), Empath Health (sr:EmpathHealth), Chapters Health System (sr:ChaptersHealthSystem), Sonic Healthcare USA (sr:SonicHealthcareUSA), AccentCare (sr:AccentCare), VITAS Healthcare (sr:VitasHealthcare), Privia Health (wk:privia-health), CareCentrix (wk:carecentrix), ChartSpan (rc:chartspan), Vytalize Health (rc:vytalize), CureMD (bz:curemd), Labcorp (sr:LabcorpDrugDevelopment), Quest Diagnostics (sr:QuestDiagnostics)
