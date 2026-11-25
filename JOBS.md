@@ -1,6 +1,6 @@
-# Medical Sales & Client Roles (IC) - 2026-11-24
+# Medical Sales & Client Roles (IC) - 2026-11-25
 
-**28 matching roles** across 22 live boards
+**27 matching roles** across 22 live boards
 
 
 ## Adaptive Biotechnologies
@@ -43,7 +43,7 @@
 
 ## OpenLoop Health
 - [Account Executive, SMB](https://jobs.ashbyhq.com/openloophealth/23eb8b12-b00b-4350-8b7b-ce93bfac2e7d) — United States - Remote; Remote
-- [Enterprise Account Executive](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
+- [Enterprise Account Executive, Employer](https://jobs.ashbyhq.com/openloophealth/d88b2849-03e9-4609-8c77-9865ef736ed7) — United States - Remote; Remote
 - [Enterprise Customer Success Manager](https://jobs.ashbyhq.com/openloophealth/64818efb-3cf2-4e6e-a986-213882bc7c9a) — United States - Remote; Remote
 
 ## Rula
@@ -52,9 +52,6 @@
 
 ## SonderMind
 - [Account Manager, Health Plans](https://jobs.ashbyhq.com/Sondermind/483a790a-80ab-4cb0-9df6-bea8fd765e6d) — Denver, CO; Dallas; Georgia; Jacksonville; Denver; Remote
-
-## Tebra
-- [Account Executive, Growth](https://job-boards.greenhouse.io/tebra/jobs/4757112005) — United States - Remote
 
 ## Weave
 - [Sr Account Executive, Mid Market & Enterprise](https://jobs.ashbyhq.com/weave/61331714-b481-45f0-9a82-653e6965c23f) — US Remote; Remote
